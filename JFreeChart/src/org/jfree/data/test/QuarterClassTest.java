@@ -158,11 +158,11 @@ public class QuarterClassTest {
         assertEquals(2000 * 4 + 1, quarter.getSerialIndex());
     }
 
-    @Test  //failed
+    @Test  //passed
     public void testEquals_SameQuarterAndSameYear(){
         Quarter quarter1 = new Quarter(1, new Year(2001));
         Quarter quarter2 = new Quarter(1, new Year(2001));
-        assertFalse(quarter1.equals(quarter2));
+        assertTrue(quarter1.equals(quarter2));
     }
 
     @Test  //passed
@@ -172,9 +172,9 @@ public class QuarterClassTest {
         assertFalse(quarter1.equals(quarter2));
     }
 
-    @Test  //failed
+    @Test  //passed
     public void testEquals_SameQuarterAndDifferentYear(){
-        Quarter quarter1 = new Quarter(1, new Year(2001));
+        Quarter quarter1 = new Quarter(1, new Year(2000));
         Quarter quarter2 = new Quarter(1, new Year(2001));
         assertFalse(quarter1.equals(quarter2));
     }
