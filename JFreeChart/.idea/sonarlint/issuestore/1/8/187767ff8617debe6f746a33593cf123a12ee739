@@ -1,53 +1,53 @@
 
 ‰
-java:S2184"@Cast one of the operands of this addition operation to a "long".(…Âä¬üÿÿÿÿ8Ÿœ…Øò1J$9da0430d-34e1-4e51-9411-41617dba280d
+java:S2184"@Cast one of the operands of this addition operation to a "long".(…Âä¬üÿÿÿÿ8Ÿœ…Øò1J$e597db01-e40b-434b-a30a-b0f142baf990
 t
-java:S1874/",Remove this use of "Date"; it is deprecated.(‚Ì¹ˆùÿÿÿÿ8Şœ…Øò1J$b6fc5b90-caa2-482b-8bf3-4d36a1773388
-	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñª¡§8îœ…Øò1J$3d285f16-d2a2-4f2d-9a0e-1000a89f4bf7
-	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕš­8îœ…Øò1J$1c9a434e-f5f3-46f7-b092-fc1355ce90b0
-	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‰Îê8ïœ…Øò1J$fe95be35-6dff-4db5-bc12-0a4d1b5e5fb4
-•	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´…áÁúÿÿÿÿ8ïœ…Øò1J$0f4f9586-59d3-4f5e-8159-2967243df506
-•	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŠƒ—ÿÿÿÿÿ8ğœ…Øò1J$f8df711a-ed7f-4d92-8143-b5e038becb80
-	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¤‡8ğœ…Øò1J$93a2434a-b36e-496c-9231-8b8d13a7ed4a
-	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨¶è8ñœ…Øò1J$5729e173-79cf-4b79-92d3-3770c63c34aa
-	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¹ ù8ñœ…Øò1J$119e3a26-6855-485a-8b8b-104654156e64
-‘	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×§ø8ôœ…Øò1J$c00b3795-1d4d-46ec-9f4f-a0de1cfbee90
-–	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É±ßøÿÿÿÿ8şœ…Øò1J$4050babf-cd17-4d8b-acab-060ae1cd2486
-–	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÆÇÏúÿÿÿÿ8…Øò1J$b09caea8-bca4-450c-9c17-a73b9132038b
-–	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚÷Ã¶øÿÿÿÿ8ƒ…Øò1J$2cbe8bfa-d9d3-4c9f-b0a9-e5acb482814b
-–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜€ıÿÿÿÿ8…Øò1J$5eebc399-b8d5-49f9-ac5e-1f7c2c2194bf
-–	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’ôñıÿÿÿÿ8…Øò1J$308554a8-2916-4d72-a80e-bf3a8dfe5e6a
-–	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ã÷Íùÿÿÿÿ8‘…Øò1J$95ecaeba-4eef-42dc-b1fd-5cda0d9d5f6c
-‘	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÃ÷¬8’…Øò1J$c8c43c4d-8488-4444-97e1-0c3b31caaf96
-–	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åù‡®øÿÿÿÿ8…Øò1J$662ea6db-ad3e-4e7a-b333-6647385bdcda
-–	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÖàÕüÿÿÿÿ8…Øò1J$41f1694b-e7d6-45d1-8a8c-5620d303a690
-–	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å«’Ôûÿÿÿÿ8Ÿ…Øò1J$3f1b105d-a59b-480a-8ea1-fba45197b942
-‘	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢€úš8ì›Øò1J$b36ddd2f-d037-48af-9416-03df165b034f
+java:S1874/",Remove this use of "Date"; it is deprecated.(‚Ì¹ˆùÿÿÿÿ8Şœ…Øò1J$3912df0e-5fe5-4e14-9fa7-3e6a8db9e328
+	java:S100="NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñª¡§8îœ…Øò1J$e8c6e11f-7341-4d7f-a271-df6cf04352f9
+	java:S100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïÕš­8îœ…Øò1J$812522de-f91c-4476-93bc-115423549434
+	java:S100G"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±‰Îê8ïœ…Øò1J$fb6042ee-598f-4afe-8818-fdac8549a912
+•	java:S100L"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´…áÁúÿÿÿÿ8ïœ…Øò1J$f7e2f4e1-ef73-4021-83c2-d8462389d10c
+•	java:S100Y"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŠƒ—ÿÿÿÿÿ8ğœ…Øò1J$ec20befe-6980-43af-819d-34beeaeb4376
+	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¤‡8ğœ…Øò1J$87d44074-2350-4149-b05b-4c2601776b86
+	java:S100c"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á¨¶è8ñœ…Øò1J$afcc7df8-242f-4cd8-9ed7-7e0474b92b20
+	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¹ ù8ñœ…Øò1J$f7ef25cc-2b01-4579-8e74-35b1139fe056
+‘	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†×§ø8ôœ…Øò1J$1326ca1f-5c3e-47b2-b123-ee0b2ee5a6b4
+–	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±É±ßøÿÿÿÿ8şœ…Øò1J$418ae638-c3e2-4e5b-b895-64a110b0bb5b
+–	java:S100•"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÆÇÏúÿÿÿÿ8…Øò1J$646ca25a-529d-4f3a-baa6-c70285afc925
+–	java:S100¢"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚÷Ã¶øÿÿÿÿ8ƒ…Øò1J$c83f96c7-b6bd-4d95-93b6-9beb2de1c279
+–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å˜€ıÿÿÿÿ8…Øò1J$7b92a801-bf21-4ecc-a574-946933ee419f
+–	java:S100°"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’ôñıÿÿÿÿ8…Øò1J$3f7e9384-3b7f-4387-bb86-a0cc04c859e4
+–	java:S100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ã÷Íùÿÿÿÿ8‘…Øò1J$2febc7a2-8ffe-427d-af00-e29fb686d630
+‘	java:S100½"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÃ÷¬8’…Øò1J$f75d9773-5f7c-4086-b2ee-e4b8c1133a1e
+–	java:S100Í"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åù‡®øÿÿÿÿ8…Øò1J$03aa2b2c-169e-4289-8d52-cfc3207371f9
+–	java:S100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÖàÕüÿÿÿÿ8…Øò1J$d22aef44-9197-4513-8279-7dc5d91f7512
+–	java:S100Û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å«’Ôûÿÿÿÿ8Ÿ…Øò1J$095639fb-2727-4b97-91e2-f48f655caaf2
+‘	java:S100ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢€úš8ì›Øò1J$e8150510-a7bd-4a3d-a11f-760272a52210
 „
-java:S1117ú";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8µİ‡Øò1J$b9fc30b1-e9e5-4bd1-8fd2-11bb990f4b7b
-‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Â‘ˆ8³İ‡Øò1J$fc7e825a-207f-40ce-b835-74791068d0e7
+java:S1117ú";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8µİ‡Øò1J$61ee7945-6b73-4f37-b8c4-35931fa9e32a
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Â‘ˆ8³İ‡Øò1J$0f4ffe6a-d24a-4b7e-9e3b-17c1f6a6c934
 „
-java:S1117ƒ";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8¢ì‰Øò1J$f2a01ac2-6828-4c41-a390-b32eaf89da0d
-‘	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø—†¾8Ù¼Øò1J$493d7a8d-6f2b-4062-9c0f-58ba397c70c8
+java:S1117ƒ";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8¢ì‰Øò1J$e5ac79e2-9859-4f26-abe9-ab183f1d4cf4
+‘	java:S100‰"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø—†¾8Ù¼Øò1J$da6d048e-3177-4da3-8acd-41f1476fa1d0
 „
-java:S1117‹";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8ô›Øò1J$2241b274-65e8-4628-aa03-623c8c0bc227
-‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®œ8ßÿˆØò1J$81b6a995-ba63-4202-b8cf-0b640a2296ad
+java:S1117‹";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8ô›Øò1J$d0365b61-dcb3-4d8e-a840-a57123d5bb61
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ®œ8ßÿˆØò1J$54ac78ed-249a-4554-8cf2-d5712dbb1fbc
 „
-java:S1117’";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8„À‘Øò1J$6657c930-cb3e-42eb-8915-b59c43530d8a
-–	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‡Ìåùÿÿÿÿ8Œ†¥Øò1J$25ead34f-8f87-4e37-8758-449bbbe0d1f7
+java:S1117’";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8„À‘Øò1J$5d7786b1-3d42-4ffe-805f-b2cba3392d1f
+–	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò‡Ìåùÿÿÿÿ8Œ†¥Øò1J$15a6cfa5-1a23-42b5-a85c-cff1d0927d22
 „
-java:S1117™";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8ß¼Øò1J$5eefa8f8-d52a-4afc-92bb-c9b1105b31f9
-	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü ‡o8óµŒØò1J$a3a6f9d8-00cd-43b8-980d-3a37262c9c3c
+java:S1117™";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8ß¼Øò1J$016a649b-c7b3-4f24-9a4d-4f8490f7b3d3
+	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü ‡o8óµŒØò1J$dcad46a6-cec7-4e6a-bce0-071cd2d42339
 „
-java:S1117¢";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8èë Øò1J$cd856e6d-5c55-484e-96c4-b132d951f313
-–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³Ñ€úÿÿÿÿ8‚Š¸Øò1J$9e9dbc11-93bd-4cda-a926-0ec34fb6f3a9
+java:S1117¢";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8èë Øò1J$28b0e773-eb3b-431e-a001-ee962c51aaed
+–	java:S100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ³Ñ€úÿÿÿÿ8‚Š¸Øò1J$428b987f-7fba-46dc-87e7-1ce3854100ca
 „
-java:S1117«";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8Ğ–¤Øò1J$5a3c3ff4-25df-4bba-93ac-741389b13feb
-–	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şĞùúÿÿÿÿ8¢ì‰Øò1J$96f29781-77f4-4b7a-9409-b2bab612c9f7
+java:S1117«";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8Ğ–¤Øò1J$f5a92884-5b61-4802-a2e9-12ed9247e7b9
+–	java:S100±"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»şĞùúÿÿÿÿ8¢ì‰Øò1J$a8ca380d-08ce-4dbf-b5d5-2fff769bc817
 „
-java:S1117³";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8è·Øò1J$9eead5c2-8bf2-46aa-aaf3-79b594074f9e
-	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ø·Q8­…Øò1J$ede40da8-6fe1-413a-bc5a-9dc987a3e1d3
+java:S1117³";Rename "quarter" which hides the field declared at line 14.(¨ªÔÆúÿÿÿÿ8è·Øò1J$e0c92742-4e9a-436e-9838-614b3a2915dd
+	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ø·Q8­…Øò1J$f82a7601-a5da-4d70-a004-0af56bb1fa47
 r
-java:S1128"*Remove this unused import 'java.sql.Time'.(Üå»‰şÿÿÿÿ8†Š¸Øò1J$8343c785-952c-47dd-86b2-013647a3cac8
+java:S1128"*Remove this unused import 'java.sql.Time'.(Üå»‰şÿÿÿÿ8†Š¸Øò1J$6899c915-8ec6-4faf-bffd-d9864021b9ae
 {
-java:S1128	"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8†Š¸Øò1J$bd32cdec-c688-4cdc-bf45-6e1fece6e0ea
+java:S1128	"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8†Š¸Øò1J$a3fb91b5-60b4-47f9-a205-e64101f1b167

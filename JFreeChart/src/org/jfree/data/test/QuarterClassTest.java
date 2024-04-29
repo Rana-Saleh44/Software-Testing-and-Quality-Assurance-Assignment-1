@@ -124,14 +124,14 @@ public class QuarterClassTest {
         Quarter previousQuarter = (Quarter) quarter.previous();
         assertEquals(new Year(2000),previousQuarter.getYear());
     }
-    @Test  //passed ->change values
+    @Test  //passed
     public void testPrevious_YearIs1900AndQuarterLessThanOrEqual1(){
         quarter = new Quarter(1, new Year(1900));
         Quarter previousQuarter = (Quarter) quarter.previous();
         assertNull(previousQuarter);
     }
 
-    @Test  //passed ->change values
+    @Test  //passed
     public void testPrevious_YearIs1900AndQuarterGreaterThan1(){
         quarter = new Quarter(2, new Year(1900));
         Quarter previousQuarter = (Quarter) quarter.previous();
