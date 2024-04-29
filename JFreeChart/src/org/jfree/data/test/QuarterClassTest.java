@@ -146,11 +146,17 @@ public class QuarterClassTest {
         assertEquals(1, nextQuarter.getQuarter());
     }
     @Test  //passed
-    public void testNext_YearIs8888AndQuarterLessThanOrEqual3(){
-        quarter = new Quarter(3, new Year(8888));
+    public void testNext_YearIs9999AndQuarterLessThanOrEqual3(){
+        quarter = new Quarter(3, new Year(9999));
         Quarter nextQuarter = (Quarter) quarter.next();
-        assertEquals(new Year(8888), nextQuarter.getYear());
+        assertEquals(new Year(9999), nextQuarter.getYear());
         assertEquals(4, nextQuarter.getQuarter());
+    }
+    @Test  //passed
+    public void testNext_YearIs9999AndQuarterGreaterThan3(){
+        quarter = new Quarter(4, new Year(9999));
+        Quarter nextQuarter = (Quarter) quarter.next();
+        assertNull(nextQuarter);
     }
     @Test  //passed
     public void testGetSerialIndex(){
