@@ -97,13 +97,13 @@ public class QuarterClassTest {
 
     @Test(expected = IllegalArgumentException.class)  //passed
     public void testQuarterIntAndYearCtor_YearLessThan1900(){
-        quarter = new Quarter(5, new Year(1899));
+        quarter = new Quarter(1, new Year(1899));
     }
 
 
     @Test(expected = IllegalArgumentException.class)  //passed
     public void testQuarterIntAndYearCtor_YearGreaterThan9999(){
-        quarter = new Quarter(5, new Year(10000));
+        quarter = new Quarter(1, new Year(10000));
     }
 
     @Test //passed
@@ -317,6 +317,7 @@ public class QuarterClassTest {
 
     @Test(expected = TimePeriodFormatException.class)  //passed
     public void testParseQuarter_InvalidFormat(){
+        quarter = Quarter.parseQuarter("2003/1Q");
         quarter = Quarter.parseQuarter("2003/1Q");
     }
 }
